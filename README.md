@@ -48,6 +48,6 @@ Dataset Source: [Kaggle - Supermarket Sales Dataset](https://www.kaggle.com/data
 1. Clone this repository to your local machine.
 2. Set up MySQL database.
 3. Import the `Clean - SuperMarket Sales.csv` file into your database.
-4. Run the SQL queries from the `/sql/supermarket_sales_analysis.sql` file.
+4. Run the SQL queries from the `/sql/SuperMarket Sales Analysis.sql` file.
 
 Feel free to explore the code and contribute to improvements!
